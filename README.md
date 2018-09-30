@@ -5,3 +5,5 @@ The ontology reused some concepts of the existing ontologies, such as :
 1. SSN and SOSA (https://github.com/w3c/sdw/tree/gh-pages/ssn)
 2. Time Ontology (https://github.com/w3c/sdw/tree/gh-pages/time)
 3. ifcOWL(https://github.com/buildingSMART/ifcOWL)
+
+About DiCtion Project:
