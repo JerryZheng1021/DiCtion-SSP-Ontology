@@ -8,4 +8,4 @@ Consruction Data Gathering Module: https://jerryzheng1021.github.io/DiCtion_Data
 
 Construction Planning Module: https://jerryzheng1021.github.io/Construction_Planning/
 
-COnstrucction Organization Module:https://jerryzheng1021.github.io/DiCtion_Construction_Organization/
+Construcction Organization Module: https://jerryzheng1021.github.io/DiCtion_Construction_Organization/
