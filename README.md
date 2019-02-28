@@ -3,6 +3,9 @@ The DiCtion Shared Situation Picture(SSP) ontology is an OWL-based ontology whic
 
 # DiCtion Ontology Modules
 Construction Object Module: https://jerryzheng1021.github.io/DiCtion_Construction_Object/
+
 Consruction Data Gathering Module: https://jerryzheng1021.github.io/DiCtion_Data_Gathering/
+
 Construction Planning Module: https://jerryzheng1021.github.io/Construction_Planning/
+
 COnstrucction Organization Module:https://jerryzheng1021.github.io/DiCtion_Construction_Organization/
